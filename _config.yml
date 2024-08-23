@@ -1,0 +1,17 @@
+title: dr3amda3mon's cyber cave
+#email: al.9000log@protonmail.com
+author: 0xdr3am
+description: >-
+  cyber tomfoolery
+baseurl: ""
+#url: https://0xdr3am.github.io
+github_username:  0xdr3am
+
+#show_downloads: false
+google_analytics: UA-161626775-1
+
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-paginate
+  #- jekyll-feed
+paginate: 5
