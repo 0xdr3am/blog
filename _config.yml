@@ -10,8 +10,10 @@ github_username:  0xdr3am
 #show_downloads: false
 google_analytics: UA-161626775-1
 
-theme: jekyll-theme-hacker
+remote_theme: pages-themes/hacker@v0.2.0
+#theme: jekyll-theme-hacker
 plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-paginate
   #- jekyll-feed
 paginate: 5
