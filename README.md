@@ -1,6 +1,4 @@
-# dr3amda3mon's cyber cave
-
-### dr3amda3mon's cybersecurity blog
+### cybersecurity blog
 
 ### Home
 - Exploring the depths of cybersecurity, one hack at a time.
